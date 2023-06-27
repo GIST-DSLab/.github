@@ -8,7 +8,7 @@ This is Official Github from [DS Lab](https://sundong.kim/), GIST
 - Jihwan Lee (MS/PHD 1)
 - Jaehyun Park (MS/PHD 0)
 - Woochang Sim (MS 1)
-- Jagyun Im (Undergrad)
+- Jaegyun Im (Undergrad)
 - Hyebin Jin (Undergrad)
 - Hosung Lee (Undergrad)
 - Hyunjun Huh (Undergrad)
