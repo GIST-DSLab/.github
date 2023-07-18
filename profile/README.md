@@ -10,7 +10,6 @@ This is Official Github from [DS Lab](https://sundong.kim/), GIST
 - Woochang Sim (MS 1)
 - Seokki Lee (MS/PHD 0)
 - Jaegyun Im (Undergrad)
-- Hyebin Jin (Undergrad)
 - Hosung Lee (Undergrad)
 - Hyunjun Huh (Undergrad)
 - Gyojun Gu (Undergrad)
