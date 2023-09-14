@@ -8,7 +8,7 @@ This is Official Github from [DS Lab](https://sundong.kim/), GIST
 #### Researcher
 - Sejin Kim (Postdoc)
 
-#### Student
+#### Student (Program, semester)
 - Sanha Hwang (MS 2, Lab Leader)
 - Woochang Sim (MS 2)
 - Jihwan Lee (MS/PHD 1)
