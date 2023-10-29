@@ -25,6 +25,5 @@ This is Official Github from [DS Lab](https://sundong.kim/), GIST
 - Hyunjun Huh (Undergrad)
 - Jiwon Park (Undergrad)
 - Gyojun Gu (Undergrad)
-- Kena (Undergrad)
 - Yunho Kim (Undergrad)
 - Seungpil Lee (Undergrad)
