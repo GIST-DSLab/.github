@@ -15,15 +15,11 @@ This is Official Github from [DS Lab](https://sundong.kim/), GIST
 - Jaehyun Park (MS/PHD 1)
 - Seokki Lee (MS/PHD 1)
 - Liyew (MS 1)
+- Donghyun Shin
+- Jiwon Park
 
 #### Intern
-- Jaegyun Im (Undergrad)
-- Mintaek Lim (Undergrad)
-- Donghyun Shin (Undergrad)
-- Wonkyu Seo (Undergrad)
-- Hosung Lee (Undergrad)
-- Hyunjun Huh (Undergrad)
-- Jiwon Park (Undergrad)
-- Gyojun Gu (Undergrad)
 - Yunho Kim (Undergrad)
 - Seungpil Lee (Undergrad)
+- Dohyun Ko (Undergrad)
+- Suyeon Sim (Undergrad)
