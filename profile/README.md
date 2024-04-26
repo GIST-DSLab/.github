@@ -23,3 +23,4 @@ This is Official Github from [DS Lab](https://sundong.kim/), GIST
 - Seungpil Lee (Undergrad)
 - Dohyun Ko (Undergrad)
 - Suyeon Sim (Undergrad)
+- Geonwoo Cho (Undergrad)
