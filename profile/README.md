@@ -1,7 +1,6 @@
 ## DataScience Lab @ GIST❤️
-This is Official Github from [DS Lab](https://sundong.kim/), GIST
+This is Official Github from [DS Lab](https://sundong.kim/members), GIST
 
-## Member
 #### Professor
 - Sundong Kim
 
@@ -9,7 +8,6 @@ This is Official Github from [DS Lab](https://sundong.kim/), GIST
 - Sejin Kim (Postdoc)
 
 #### Student (Program)
-- Sanha Hwang (MS, 2023 Spring ~)
 - Woochang Sim (PhD, 2025 Spring ~)
 - Jihwan Lee (MS/PHD, 2023 Spring ~)
 - Jaehyun Park (MS/PHD, 2023 Fall ~)
